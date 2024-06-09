@@ -46,6 +46,16 @@
     <img src="https://streak-stats.demolab.com?user=sgoyalsmvj&theme=highcontrast&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=500&dates=2661EB&stroke=250D0D" alt="GitHub Streak"/>
   </a>
 </div>
+ <br>
+ <br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sgoyalsmvj&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt ="trophies" >
+</div>
+<br>
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sgoyalsmvj&icon=6&color=5)](https://visitcount.itsvg.in)" alt ="trophies" >
+</div>
+
 
 ## 🌐 Socials:
 <div>
@@ -55,3 +65,4 @@
   <a href="mailto:sgoyalsmvj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.instagram.com/__saurabhgoyal/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 </div>
+
