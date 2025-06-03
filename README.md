@@ -7,11 +7,9 @@
 
 <p >💢 I code and watch Anime.</p>
 
-<p >🔭 I’m currently working on MERN Stack.</p>
+<p >🔭 I’m currently working on Next.js, TypeScript and Python.</p>
 
-<p >🌱 I’m currently learning Next.js and TypeScript.</p>
-
-<p >👯 I’m looking to collaborate on any web development projects.</p>
+<p >🌱 I’m currently learning Gen AI.</p>
 
 ## 💻 Tech Stack:
 <div>
@@ -48,15 +46,7 @@
 </div>
  <br>
  <br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sgoyalsmvj&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt ="trophies" >
-</div>
-<br>
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sgoyalsmvj&icon=6&color=5)](https://visitcount.itsvg.in)" alt ="trophies" >
-</div>
-
-
+ 
 ## 🌐 Socials:
 <div>
   <a href="https://discord.com/users/788196386504048660"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
