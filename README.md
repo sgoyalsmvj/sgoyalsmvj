@@ -9,7 +9,7 @@
 
 <p >🔭 I’m currently working on Next.js, TypeScript and Python.</p>
 
-<p >🌱 I’m currently learning Gen AI.</p>
+<p >🌱 I’m currently learning Agentic AI.</p>
 
 ## 💻 Tech Stack:
 <div>
