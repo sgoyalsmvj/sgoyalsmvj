@@ -2,7 +2,7 @@
 
 # 🚀 Saurabh Goyal
 
-### AI Product Builder | Full Stack Developer | Founder 🔥
+### AI Product Builder | Full Stack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1500&color=FF006E&center=true&vCenter=true&width=900&lines=Building+AI+products+that+matter;From+idea+to+market;Scaling+next%2Bgen+experiences;Making+interviews+smarter+%F0%9F%A4%96" alt="Typing SVG" />
 
