@@ -137,8 +137,6 @@ I believe in:
 ---
 
 ## 🌱 Currently Building
-
-- Scaling **Mockwise** to reach more job seekers
 - Exploring **AI agents** for automation workflows
 - Experimenting with **real-time AI interactions**
 - Learning **how to scale products from 0→1→10k users**
