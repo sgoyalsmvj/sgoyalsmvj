@@ -1,193 +1,174 @@
 <div align="center">
 
-# Hey there! 👋 I'm **Saurabh**
+# 🚀 Saurabh Goyal
 
-### `Software Engineer` · `AI Builder` · `Full-Stack Developer`
+### AI Product Builder | Full Stack Developer | Founder 🔥
 
-<img src="https://media.giphy.com/media/12K8GGWstl229G/giphy.gif" />
-
-<br>
-
-**I build things with code, AI, and probably too much curiosity.**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/saurabhgoyal12)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/sgoyalsmvj)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:sgoyalsmvj@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3000&pause=1500&color=FF006E&center=true&vCenter=true&width=900&lines=Building+AI+products+that+matter;From+idea+to+market;Scaling+next%2Bgen+experiences;Making+interviews+smarter+%F0%9F%A4%96" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### `> whoami`
+## 🎯 What I Do
 
-🏠 **Developer from India**
+I'm obsessed with **AI-first products** that solve real problems. I go from **concept → code → production** fast. Think:
+- **🤖 AI Agents & Assistants** that actually work
+- **⚡ Full-stack products** shipped quickly
+- **📱 Mobile & Web experiences** that users love
+- **💡 Automation tools** that save time & money
 
-💻 I build **AI-powered products, backend systems, and full-stack applications.**
-
-🤖 Currently exploring **LLMs, RAG, AI agents & intelligent automation.**
-
-🧠 I like understanding **how things work underneath the abstraction.**
-
-🎮 Outside code: **Anime • Music • Photography**
-
-<br>
+I don't just build features. I build **products people want to use**.
 
 ---
 
-## ⚡ `stack.exe`
+## 🔥 My Best Work
 
-### Languages
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="SQL"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" title="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="45" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3"/>
-</p>
-
-### Backend / Data
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45" title="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45" title="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" title="MongoDB"/>
-</p>
-
-### AI / Search
-
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square\&logo=openai\&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square\&logo=google\&logoColor=4285F4)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-111111?style=flat-square)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-111111?style=flat-square\&logo=opensearch\&logoColor=white)
-
-### Cloud / DevOps
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="50" title="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" title="GitHub"/>
-</p>
-
----
-
-# 🧪 `things.i.build()`
-
-### 🌙 Midnight Mile
-
-> **AI-powered safety navigation**
-
-`Next.js` `TypeScript` `Google Maps` `Gemini` `ElevenLabs` `Supabase`
-
-```text id="7a3q1p"
-Maps
- ├── Route visualization
- ├── Safe-zone overlays
- └── Dynamic route scoring
-
-Safety
- ├── Geofencing
- ├── AI voice check-ins
- └── Emergency alerts
-
-AI
- └── Conversational rerouting
-```
+<table>
+<tr>
+  <td width="50%" align="center">
+    <h3>🎬 Mockwise</h3>
+    <p><strong>AI Mock Interview Platform</strong></p>
+    <p>Practice real interviews with a photorealistic AI avatar powered by Tavus. Get instant AI-generated feedback from Gemini. <b>Production ready.</b></p>
+    <p>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Tavus%20AI-FF006E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase" />
+    </p>
+    <p><a href="https://github.com/sgoyalsmvj/mockwise">⭐ View Repo</a></p>
+  </td>
+  <td width="50%" align="center">
+    <h3>🎨 PixelTone</h3>
+    <p><strong>AI Creative Studio</strong></p>
+    <p>Generate stunning art & music from text. Microservices architecture. Full monorepo setup with backend API, NLP, and generation engine.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql" />
+      <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma" />
+    </p>
+    <p><a href="https://github.com/sgoyalsmvj/PixelTone">⭐ View Repo</a></p>
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center">
+    <h3>🌙 MidnightMile</h3>
+    <p><strong>Mobile Safety App</strong></p>
+    <p>React Native + Expo. Real-time safe route mapping with AI companion. Emergency features, trusted contacts, SOS integration.</p>
+    <p>
+      <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo" />
+      <img src="https://img.shields.io/badge/Maps%20API-4285F4?style=flat-square&logo=google" />
+    </p>
+    <p><a href="https://github.com/sgoyalsmvj/MidnightMile">⭐ View Repo</a></p>
+  </td>
+  <td width="50%" align="center">
+    <h3>⚙️ FocusFlow 2.0</h3>
+    <p><strong>Productivity Workflow Engine</strong></p>
+    <p>Structured backend API for task management & focus tracking. TypeScript + Node.js with proper architecture.</p>
+    <p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript" />
+      <img src="https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square" />
+    </p>
+    <p><a href="https://github.com/sgoyalsmvj/FocusFlow2.0">⭐ View Repo</a></p>
+  </td>
+</tr>
+</table>
 
 ---
 
-### 📬 AI Mail Assistant
+## 💻 Tech Arsenal
 
-> **Natural language → Gmail**
+### Frontend Magic ✨
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-`Next.js` `TypeScript` `OpenAI API` `Gmail API`
+### Backend Power 🔧
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-```text id="p9k4mx"
-"Reply to this email and mention Friday"
-                    │
-                    ▼
-             AI interpretation
-                    │
-                    ▼
-             Structured action
-                    │
-                    ▼
-               Gmail API
-```
+### AI & APIs 🤖
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Tavus](https://img.shields.io/badge/Tavus%20AI-FF006E?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-Built with OAuth-secured Gmail integration, structured AI outputs, and retry handling.
-
----
-
-## 🧠 `currently_learning`
-
-```text id="w4h2fd"
-┌──────────────────────────────────────────────────┐
-│                                                  │
-│   🤖  AI Agents                                  │
-│   🧠  Advanced RAG                               │
-│   🔎  Semantic / Vector Search                   │
-│   ⚙️  Distributed Systems                        │
-│   🏗️  System Design                              │
-│   ☁️  Cloud Architecture                          │
-│                                                  │
-└──────────────────────────────────────────────────┘
-```
+### DevOps & Tools 🚀
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
-# 📊 `github.stats`
+## 📈 Stats That Matter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sgoyalsmvj&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sgoyalsmvj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&icon_color=FFD700&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sgoyalsmvj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF006E&text_color=FFFFFF)
 
-<img src="https://streak-stats.demolab.com/?user=sgoyalsmvj&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=sgoyalsmvj&theme=radical&hide_border=true&background=0D1117&ring=FF006E&fire=FFD700&currStreakNum=FFFFFF)
 
 </div>
 
 ---
 
-## 🤝 `connect_with_me`
+## 🎓 Philosophy
+
+> **Ship > Perfect** — I build fast, iterate based on real feedback, and ship products people actually use.
+
+I believe in:
+- 🎯 **Product-market fit first** — solve real problems
+- ⚡ **Speed to market** — better to launch and learn than perfect in stealth
+- 🔄 **User feedback loops** — build with users, not for users
+- 🤝 **Open source mindset** — share knowledge, lift others up
+- 🚀 **Ambitious but realistic** — big dreams, pragmatic execution
+
+---
+
+## 🌱 Currently Building
+
+- Scaling **Mockwise** to reach more job seekers
+- Exploring **AI agents** for automation workflows
+- Experimenting with **real-time AI interactions**
+- Learning **how to scale products from 0→1→10k users**
+
+---
+
+## 🔗 Connect & Collaborate
 
 <div align="center">
 
-<a href="https://linkedin.com/in/saurabhgoyal12">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github)](https://github.com/sgoyalsmvj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saurabhgoyal12/)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-FF006E?style=for-the-badge&logo=gmail)](mailto:sgoyalsmvj@gmail.com)
 
-<a href="mailto:sgoyalsmvj@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://github.com/sgoyalsmvj">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
 
-<br><br>
+## 🎯 Let's Build Together
 
-<img src="https://komarev.com/ghpvc/?username=sgoyalsmvj&style=flat-square&color=blueviolet"/>
+👉 **Have a cool idea?** I'm open to:
+- 🤝 Collaborations on AI products
+- 💼 Building your MVP quickly
+- 🧠 Technical advisory roles
+- 🚀 Founding a startup
 
-<br><br>
+<div align="center">
 
-### `console.log("thanks for stopping by 🚀")`
+### 🔥 Let's ship something amazing 🚀
+
+**Currently open to opportunities. Let's talk.**
 
 </div>
